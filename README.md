@@ -26,8 +26,10 @@
     </h3>
     <small>― Klaus Joehle</small>
     <h1></h1>  
+      
     [<img src="cover/Westerlund 2.png">](https://science.nasa.gov/image-detail/42916480792-cd4b5fcfdf-o/)  
-    <div align="left">
+    
+  <div align="left">
       This giant cluster of about 3,000 stars, called Westerlund 2, resides in a raucous stellar breeding ground located 20,000 light-years away from Earth in the constellation Carina. Credits: [NASA/ESA](https://science.nasa.gov/mission/hubble/multimedia/hubble-images/)
     </div>  
     ### Hi there 👋 
