@@ -17,8 +17,9 @@
   <br/>
   <a href="https://github.com/ColstonBod-oy?tab=achievements"><img alt="Colston's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=ColstonBod-oy&theme=matrix&no-frame=true"/></a>
 </div>
+<div align="center">
 <details> 
-  <summary><h2>🔘</h2></summary>  
+  <summary><h2>📟</h2></summary>  
   <div align="center">
     <h3>
       “The Universe is saying: Allow me to flow through you unrestricted,<br>and you will see the greatest magic you have ever seen.”
@@ -31,6 +32,7 @@
   This giant cluster of about 3,000 stars, called Westerlund 2, resides in a raucous stellar breeding ground located 20,000 light-years away from Earth in the constellation Carina. Credits: [NASA/ESA](https://science.nasa.gov/mission/hubble/multimedia/hubble-images/)
   ### Hi there 👋  
 </details>
+</div>
 <div align="right">
   <br/>
   <a href="https://github.com/ColstonBod-oy"><img alt="Colston's Visitor Count" src="https://profile-counter.glitch.me/ColstonBod-oy/count.svg"/></a>
