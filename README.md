@@ -10,7 +10,7 @@
 This giant cluster of about 3,000 stars, called Westerlund 2, resides in a raucous stellar breeding ground located 20,000 light-years away from Earth in the constellation Carina. Credits: [NASA/ESA](https://science.nasa.gov/mission/hubble/multimedia/hubble-images/)
 ### Hi there 👋  
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB06&background=000000&vCenter=true&random=false&width=435&lines=%24+Full+Stack+Web+Development;%24+Android+Mobile+Development;%24+Data+Structures+and+Algorithms;%24+Machine+Learning;%24+Responsive+Web+Design;%24+Test+Driven+Development;%24+CI%2FCD;%24+Java;%24+Kotlin;%24+Javascript;%24+Typescript;%24+React;%24+React+Native;%24+Expo;%24+Next.js;%24+CSS;%24+SASS;%24+Tailwind+CSS;%24+Bootstrap;%24+SQL;%24+PHP;%24+Laravel;%24+Firebase;%24+Python;%24+Pandas;%24+NumPy;%24+Matplotlib;%24+TensorFlow;%24+Keras;%24+Scikit-Learn;%24+Flutter;%24+Chess+lol" alt="Typing SVG" /></a>
+  <a href="https://github.com/ColstonBod-oy?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB06&background=000000&vCenter=true&random=false&width=435&lines=%24+Full+Stack+Web+Development;%24+Android+Mobile+Development;%24+Data+Structures+and+Algorithms;%24+Machine+Learning;%24+Responsive+Web+Design;%24+Test+Driven+Development;%24+CI%2FCD;%24+Java;%24+Kotlin;%24+Javascript;%24+Typescript;%24+React;%24+React+Native;%24+Expo;%24+Next.js;%24+CSS;%24+SASS;%24+Tailwind+CSS;%24+Bootstrap;%24+SQL;%24+PHP;%24+Laravel;%24+Firebase;%24+Python;%24+Pandas;%24+NumPy;%24+Matplotlib;%24+TensorFlow;%24+Keras;%24+Scikit-Learn;%24+Flutter;%24+Chess+lol" alt="Typing SVG" /></a>
   <br/>
   <br/>
 </div>
