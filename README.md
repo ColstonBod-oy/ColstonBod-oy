@@ -23,13 +23,12 @@
     <h3>
       “The Universe is saying: Allow me to flow through you unrestricted,<br>and you will see the greatest magic you have ever seen.”
     </h3>
-    <p align="right">― Klaus Joehle</p>
+    <small>― Klaus Joehle</small>
     <h1></h1>  
     <a href="https://science.nasa.gov/image-detail/42916480792-cd4b5fcfdf-o/"><img alt="Westurlund 2" src="cover/Westerlund 2.png" /></a>  
     <div align="left">
       This giant cluster of about 3,000 stars, called Westerlund 2, has been released to celebrate Hubble’s 25th year in orbit and a quarter of a century of new discoveries, stunning images, and outstanding science. It resides in a raucous stellar breeding ground located 20,000 light-years away from Earth in the constellation Carina. Credits: 
-      <a href="https://science.nasa.gov/mission/hubble/multimedia/hubble-images/">NASA</a>/
-      <span href="https://esahubble.org/images/">ESA</span>
+      <a href="https://science.nasa.gov/mission/hubble/multimedia/hubble-images/">NASA</a>/<a href="https://esahubble.org/images/">ESA</a>
     </div>  
     Hi there 👋 
   </details>
