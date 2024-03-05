@@ -30,25 +30,21 @@
       This giant cluster of about 3,000 stars, called Westerlund 2, has been released to celebrate Hubble’s 25th year in orbit and a quarter of a century of new discoveries, stunning images, and outstanding science. It resides in a raucous stellar breeding ground located 20,000 light-years away from Earth in the constellation Carina. Credits: 
       <a href="https://science.nasa.gov/mission/hubble/multimedia/hubble-images/">NASA</a>/<a href="https://esahubble.org/images/">ESA</a>
     </div>  
-    Hi there 👋 
   </details>
-</div>
+</div>  
+```diff
+public class Hello1
+{
+   public static void Main()
+   {
+-      System.Console.WriteLine("Hello, World!");
++      System.Console.WriteLine("Rock all night long!");
+   }
+}
+```  
+
 <div align="right">
   <a href="https://github.com/ColstonBod-oy"><img alt="Colston's Visitor Count" src="https://profile-counter.glitch.me/ColstonBod-oy/count.svg"/></a>
 </div>  
   
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
-
-> [!TIP]
-> Optional information to help a user be more successful.
-
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
-
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
-
-> [!CAUTION]
-> Negative potential consequences of an action.
 
