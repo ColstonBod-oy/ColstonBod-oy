@@ -10,8 +10,8 @@
 This giant cluster of about 3,000 stars, called Westerlund 2, resides in a raucous stellar breeding ground located 20,000 light-years away from Earth in the constellation Carina. Credits: [NASA/ESA](https://science.nasa.gov/mission/hubble/multimedia/hubble-images/)
 ### Hi there 👋  
 [![trophy](https://github-profile-trophy.vercel.app/?username=ColstonBod-oy&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=ColstonBod-oy&theme=hacker&currStreakNum=00C000&border=00C000&stroke=00C000&sideNums=00C000&sideLabels=00C000&dates=00C000&excludeDaysLabel=00C000&background=000000&ring=FFE24A&fire=FFE24A&currStreakLabel=FFE24A)](https://git.io/streak-stats)  
-![Colston's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColstonBod-oy&show_icons=true&title_color=00C000&text_color=00C000&icon_color=00C000&border_color=00C000&bg_color=000000)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=ColstonBod-oy&theme=hacker&currStreakNum=00CB06&border=00CB06&stroke=00CB06&sideNums=00CB06&sideLabels=00CB06&dates=00CB06&excludeDaysLabel=00CB06&background=000000&ring=00CB06&fire=00CB06&currStreakLabel=00CB06)](https://git.io/streak-stats)  
+![Colston's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColstonBod-oy&show_icons=true&title_color=00CB06&text_color=00CB06&icon_color=00CB06&border_color=00CB06&bg_color=000000)  
 ![Visitor Count](https://profile-counter.glitch.me/ColstonBod-oy/count.svg)
 
 
