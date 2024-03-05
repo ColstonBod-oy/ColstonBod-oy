@@ -14,7 +14,7 @@ This giant cluster of about 3,000 stars, called Westerlund 2, resides in a rauco
 ![Colston's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColstonBod-oy&show_icons=true&title_color=00CB06&text_color=00CB06&icon_color=00CB06&border_color=00CB06&bg_color=000000)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColstonBod-oy&layout=compact&langs_count=8&card_width=400&title_color=00CB06&text_color=00CB06&icon_color=00CB06&border_color=00CB06&bg_color=000000) 
 <a>
 <a href="https://github.com/ColstonBod-oy"><img alt="Colston's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ColstonBod-oy&show_icons=true&count_private=true&title_color=00CB06&text_color=00CB06&icon_color=00CB06&border_color=00CB06&bg_color=000000" height="192px" width="49.5%"/></a>
-<a href="https://github.com/ColstonBod-oy"><img alt="Colston's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ColstonBod-oy&langs_count=6&layout=compact&title_color=00CB06&text_color=00CB06&icon_color=00CB06&border_color=00CB06&bg_color=000000" height="192px" width="49.5%"/></a>
+<a href="https://github.com/ColstonBod-oy"><img alt="Colston's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ColstonBod-oy&langs_count=8&layout=compact&title_color=00CB06&text_color=00CB06&icon_color=00CB06&border_color=00CB06&bg_color=000000" height="192px" width="49.5%"/></a>
 </a>  
 
 ![Visitor Count](https://profile-counter.glitch.me/ColstonBod-oy/count.svg)
