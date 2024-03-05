@@ -19,7 +19,17 @@
 </div>
 <div align="center">
   <details> 
-    <summary><h2>📟</h2></summary>  
+    <summary><h2>📟</h2></summary>
+    <br/>
+    💬
+    <br/>
+    <blockquote>
+      <strong>
+        If you're reading this, this is the first time this message had been transmitted successfully after years of travelling in space and you're talking to the version of me thousands of years in the past. Throughout my career, I have thrived in fast-paced startup environments and freelancing. This year, I'm taking a big leap into joining big companies. Hopefully I survive out there... [end of transmission]
+      </strong>
+    </blockquote>
+    <br/>
+    <br/>
     <h3>
       “The Universe is saying: Allow me to flow through you unrestricted,<br>and you will see the greatest magic you have ever seen.”
     </h3>
@@ -30,15 +40,6 @@
       This giant cluster of about 3,000 stars, called Westerlund 2, has been released to celebrate Hubble’s 25th year in orbit and a quarter of a century of new discoveries, stunning images, and outstanding science. It resides in a raucous stellar breeding ground located 20,000 light-years away from Earth in the constellation Carina. Credits: 
       <a href="https://science.nasa.gov/mission/hubble/multimedia/hubble-images/">NASA</a>/<a href="https://esahubble.org/images/">ESA</a>
     </div>
-    <br/>
-    <br/>
-    💬
-    <br/>
-    <blockquote>
-      <strong>
-        If you're reading this, this is the first time this message had been transmitted after years of travelling in space and you're talking to the version of me thousands of years in the past. Throughout my career, I have thrived in fast-paced startup environments and freelancing. This year, I'm taking a big leap into joining big companies. Hopefully I survive out there... [end of transmission]
-      </strong>
-    </blockquote>
   </details>
 </div>  
 <div align="right">
