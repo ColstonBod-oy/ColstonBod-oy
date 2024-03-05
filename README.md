@@ -15,9 +15,6 @@ This giant cluster of about 3,000 stars, called Westerlund 2, resides in a rauco
   <br/>
 </div>
 <div align="center">
-  <a href="https://github.com/ColstonBod-oy?tab=achievements"><img alt="Colston's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=ColstonBod-oy&theme=matrix&no-frame=true"/></a>
-  <br/>
-  <br/>
   <a href="https://github.com/ColstonBod-oy?tab=repositories"><img alt="Colston's GitHub Streak" src="https://streak-stats.demolab.com?user=ColstonBod-oy&theme=hacker&currStreakNum=00CB06&border=00CB06&stroke=00CB06&sideNums=00CB06&sideLabels=00CB06&dates=00CB06&excludeDaysLabel=00CB06&background=000000&ring=00CB06&fire=00CB06&currStreakLabel=00CB06"/></a>
   <br/>
 </div> 
@@ -27,6 +24,7 @@ This giant cluster of about 3,000 stars, called Westerlund 2, resides in a rauco
   <a href="https://github.com/ColstonBod-oy?tab=stars"><img alt="Colston's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColstonBod-oy&layout=compact&langs_count=8&card_width=400&title_color=00CB06&text_color=00CB06&icon_color=00CB06&border_color=00CB06&bg_color=000000" height="200px" width="49.5%"/></a>
   <br/>
 </div>  
+<a href="https://github.com/ColstonBod-oy?tab=achievements"><img alt="Colston's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=ColstonBod-oy&theme=matrix&no-frame=true"/></a>
 <div align="right">
   <br/>
   <a href="https://github.com/ColstonBod-oy"><img alt="Colston's Visitor Count" src="https://profile-counter.glitch.me/ColstonBod-oy/count.svg"/></a>
