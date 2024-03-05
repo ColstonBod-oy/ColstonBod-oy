@@ -1,8 +1,8 @@
 <div align="center">
   <h3>
-    “Everybody is a genius. But if you judge a fish by its ability to climb a tree,<br>it will live its whole life believing that it is stupid.”
+    “The Universe is saying: Allow me to flow through you unrestricted,<br>and you will see the greatest magic you have ever seen.”
   </h3>
-  <small>― Albert Einstein</small>
+  <small>― Klaus Joehle</small>
 </div>  
 
 ### Hi there 👋  
