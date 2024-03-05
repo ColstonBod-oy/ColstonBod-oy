@@ -54,11 +54,11 @@
 <div align="right">
   <a href="https://github.com/ColstonBod-oy"><img alt="Colston's Visitor Count" src="https://profile-counter.glitch.me/ColstonBod-oy/count.svg"/></a>
   <br/>
-  <a href="https://github.com/ColstonBod-oy"><img alt="Gmail Badge" src="https://img.shields.io/badge/🔳-GMAIL-000000?style=flat-square&labelColor=00CB06"/></a>
-  <a href="https://github.com/ColstonBod-oy"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/🔳-LINKEDIN-000000?style=flat-square&labelColor=00CB06"/></a>
-  <a href="https://github.com/ColstonBod-oy"><img alt="Facebook Badge" src="https://img.shields.io/badge/🔳-FACEBOOK-000000?style=flat-square&labelColor=00CB06"/></a>
-  <a href="https://github.com/ColstonBod-oy"><img alt="Instagram Badge" src="https://img.shields.io/badge/🔳-INSTAGRAM-000000?style=flat-square&labelColor=00CB06"/></a>
-  <a href="https://github.com/ColstonBod-oy"><img alt="Twitter Badge" src="https://img.shields.io/badge/🔳-TWITTER-000000?style=flat-square&labelColor=00CB06"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bodoycolstond@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/🔳-GMAIL-000000?style=flat-square&labelColor=00CB06"/></a>
+  <a href="https://www.linkedin.com/in/colston-bod-oy-60a7521a4/"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/🔳-LINKEDIN-000000?style=flat-square&labelColor=00CB06"/></a>
+  <a href="https://www.facebook.com/colston.bodoy/"><img alt="Facebook Badge" src="https://img.shields.io/badge/🔳-FACEBOOK-000000?style=flat-square&labelColor=00CB06"/></a>
+  <a href="https://www.instagram.com/coldz.stone/"><img alt="Instagram Badge" src="https://img.shields.io/badge/🔳-INSTAGRAM-000000?style=flat-square&labelColor=00CB06"/></a>
+  <a href="https://twitter.com/OyColston"><img alt="Twitter Badge" src="https://img.shields.io/badge/🔳-TWITTER-000000?style=flat-square&labelColor=00CB06"/></a>
 </div>
   
 
