@@ -59,6 +59,7 @@
   <a href="https://github.com/ColstonBod-oy"><img alt="Facebook Badge" src="https://img.shields.io/badge/%3E-FACEBOOK-000000?style=flat-square&labelColor=00CB06"/></a>
   <a href="https://github.com/ColstonBod-oy"><img alt="Instagram Badge" src="https://img.shields.io/badge/%3E-INSTAGRAM-000000?style=flat-square&labelColor=00CB06"/></a>
   <a href="https://github.com/ColstonBod-oy"><img alt="Twitter Badge" src="https://img.shields.io/badge/%3E-TWITTER-000000?style=flat-square&labelColor=00CB06"/></a>
+  &nbsp;
 </div>
   
 
