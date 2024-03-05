@@ -25,7 +25,7 @@
     </h3>
     <small>― Klaus Joehle</small>
     <h1></h1>  
-    <a href="https://science.nasa.gov/image-detail/42916480792-cd4b5fcfdf-o/"><img alt="Westurlund 2" src="cover/Westerlund 2.png" /></a>  
+    <a href="https://science.nasa.gov/image-detail/42916480792-cd4b5fcfdf-o/"><img alt="Westerlund 2" src="cover/Westerlund 2.png" /></a>  
     <div align="left">
       This giant cluster of about 3,000 stars, called Westerlund 2, has been released to celebrate Hubble’s 25th year in orbit and a quarter of a century of new discoveries, stunning images, and outstanding science. It resides in a raucous stellar breeding ground located 20,000 light-years away from Earth in the constellation Carina. Credits: 
       <a href="https://science.nasa.gov/mission/hubble/multimedia/hubble-images/">NASA</a>/<a href="https://esahubble.org/images/">ESA</a>
