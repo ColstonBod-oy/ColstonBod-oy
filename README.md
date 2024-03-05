@@ -54,7 +54,7 @@
 <div align="right">
   <a href="https://github.com/ColstonBod-oy"><img alt="Colston's Visitor Count" src="https://profile-counter.glitch.me/ColstonBod-oy/count.svg"/></a>
   <br/>
-  <a href="https://github.com/ColstonBod-oy"><img alt="Gmail Badge" src="https://img.shields.io/badge/%3E-GMAIL-000000?style=flat-square&labelColor=00CB06"/></a>
+  <a href="https://github.com/ColstonBod-oy"><img alt="Gmail Badge" src="https://img.shields.io/badge/%🔳-GMAIL-000000?style=flat-square&labelColor=00CB06"/></a>
   <a href="https://github.com/ColstonBod-oy"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/%3E-LINKEDIN-000000?style=flat-square&labelColor=00CB06"/></a>
   <a href="https://github.com/ColstonBod-oy"><img alt="Facebook Badge" src="https://img.shields.io/badge/%3E-FACEBOOK-000000?style=flat-square&labelColor=00CB06"/></a>
   <a href="https://github.com/ColstonBod-oy"><img alt="Instagram Badge" src="https://img.shields.io/badge/%3E-INSTAGRAM-000000?style=flat-square&labelColor=00CB06"/></a>
