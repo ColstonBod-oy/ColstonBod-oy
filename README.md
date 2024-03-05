@@ -31,6 +31,11 @@
       <a href="https://science.nasa.gov/mission/hubble/multimedia/hubble-images/">NASA</a>/<a href="https://esahubble.org/images/">ESA</a>
     </div>  
     💬
+    <code>
+      $ asdadasd
+      $ asdadasd
+      $ asdadasd
+    </code>
   </details>
 </div>  
 <div align="right">
