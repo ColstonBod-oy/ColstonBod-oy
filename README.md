@@ -36,7 +36,7 @@
     <br/>
     <blockquote>
       <strong>
-        If you're reading this, this is the first time this message had been transmitted after years of travelling in space and you're talking to the version of me thousands of years in the past.
+        If you're reading this, this is the first time this message had been transmitted after years of travelling in space and you're talking to the version of me thousands of years in the past.<br/>Throughout my career, I have thrived in fast-paced startup environments and freelancing. This year, I'm taking a big leap into joining big companies.
       </strong>
     </blockquote>
   </details>
