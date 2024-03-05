@@ -23,18 +23,18 @@
     <br/>
     💬
     <br/>
-      <blockquote>
-        <div align="left">
-          <strong>
-            If you're reading these words, consider yourself among the first to receive this message, sent across the vast expanse of space. As you decipher these lines, you're conversing with a version of me from thousands of years in the past.<br/>Throughout my journey, I've navigated the intricacies of fast-paced startup environments and ventured into the realm of freelancing. But this year marks a significant shift—a daring leap into the domain of major corporations. Here I stand, on the precipice of this new frontier, uncertain yet hopeful for what lies ahead. Hopefully I survive out there...<br/>
-          </strong>
-        </div>
-        <div align="center">
-          <strong>
-            [END OF TRANSMISSION]
-          </strong>
-        </div>
-      </blockquote>
+    <blockquote>
+      <div align="left">
+        <strong>
+          If you're reading these words, consider yourself among the first to receive this message, sent across the vast expanse of space. As you decipher these lines, you're conversing with a version of me from thousands of years in the past.<br/><br/>Throughout my journey, I've navigated the intricacies of fast-paced startup environments and ventured into the realm of freelancing. But this year marks a significant shift—a daring leap into the domain of major corporations. Here I stand, on the precipice of this new frontier, uncertain yet hopeful for what lies ahead. Hopefully I survive out there...<br/>
+        </strong>
+      </div>
+      <div align="center">
+        <strong>
+          [END OF TRANSMISSION]
+        </strong>
+      </div>
+    </blockquote>
     <br/>
     <br/>
     <h3>
