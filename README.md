@@ -29,13 +29,14 @@
     <div align="left">
       This giant cluster of about 3,000 stars, called Westerlund 2, has been released to celebrate Hubble’s 25th year in orbit and a quarter of a century of new discoveries, stunning images, and outstanding science. It resides in a raucous stellar breeding ground located 20,000 light-years away from Earth in the constellation Carina. Credits: 
       <a href="https://science.nasa.gov/mission/hubble/multimedia/hubble-images/">NASA</a>/<a href="https://esahubble.org/images/">ESA</a>
-    </div> 
+    </div>
+    <br/>
     <br/>
     💬
+    <br/>
     <blockquote>
       <strong>
-        For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally.
-</blockquote>
+        If you're reading this, this is the first time this message had been transmitted after years of travelling in space and you're talking to the version of me thousands of years in the past.
       </strong>
     </blockquote>
   </details>
