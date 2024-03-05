@@ -17,7 +17,6 @@
   <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Colston's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=ColstonBod-oy&theme=matrix&no-frame=true"/></a>
 </div>
-<br/>
 <div align="center">
   <details> 
     <summary><h2>📟</h2></summary>
