@@ -11,7 +11,7 @@ This giant cluster of about 3,000 stars, called Westerlund 2, resides in a rauco
 ### Hi there 👋  
 [![trophy](https://github-profile-trophy.vercel.app/?username=ColstonBod-oy&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=ColstonBod-oy&theme=hacker&currStreakNum=00C000&border=00C000&stroke=00C000&sideNums=00C000&sideLabels=00C000&dates=00C000&excludeDaysLabel=00C000&background=000000&ring=FFE24A&fire=FFE24A&currStreakLabel=FFE24A)](https://git.io/streak-stats)  
-![Colston's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColstonBod-oy&show_icons=true&title_color=00C000&text_color=00C000&icon_color=00C000&border_color=00C000&bg_color=00000000)  
+![Colston's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColstonBod-oy&show_icons=true&title_color=00C000&text_color=00C000&icon_color=00C000&border_color=00C000&bg_color=000000)  
 ![Visitor Count](https://profile-counter.glitch.me/ColstonBod-oy/count.svg)
 
 
