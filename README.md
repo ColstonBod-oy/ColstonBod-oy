@@ -13,7 +13,7 @@ This giant cluster of about 3,000 stars, called Westerlund 2, resides in a rauco
 [![GitHub Streak](https://streak-stats.demolab.com?user=ColstonBod-oy&theme=hacker&currStreakNum=00CB06&border=00CB06&stroke=00CB06&sideNums=00CB06&sideLabels=00CB06&dates=00CB06&excludeDaysLabel=00CB06&background=000000&ring=00CB06&fire=00CB06&currStreakLabel=00CB06)](https://git.io/streak-stats)  
 ![Colston's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColstonBod-oy&show_icons=true&title_color=00CB06&text_color=00CB06&icon_color=00CB06&border_color=00CB06&bg_color=000000)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColstonBod-oy&layout=compact&langs_count=8&card_width=400&title_color=00CB06&text_color=00CB06&icon_color=00CB06&border_color=00CB06&bg_color=000000) 
 <a align="center"> 
-    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ColstonBod-oy&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49.5%"/></a>
+    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ColstonBod-oy&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="250px" width="49.5%"/></a>
   <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ColstonBod-oy&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49.5%"/></a>
   <br/>
 </a>  
