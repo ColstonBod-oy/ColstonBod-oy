@@ -24,10 +24,8 @@ This giant cluster of about 3,000 stars, called Westerlund 2, resides in a rauco
 </div>  
 <div align="right">
   <br/>
-  <p style="color: #00CB06;">
-    Profile Views: 
-    <a href="https://github.com/ColstonBod-oy"><img alt="Colston's Visitor Count" src="https://profile-counter.glitch.me/ColstonBod-oy/count.svg"/></a>
-  </p>
+  <span style='color: red;'>Profile Views: </span>
+  <a href="https://github.com/ColstonBod-oy"><img alt="Colston's Visitor Count" src="https://profile-counter.glitch.me/ColstonBod-oy/count.svg"/></a>
 </div>
 
 
