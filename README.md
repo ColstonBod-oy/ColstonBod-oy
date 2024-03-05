@@ -25,7 +25,7 @@
     <br/>
     <blockquote>
       <strong>
-        If you're reading this, this is the first time this message had been transmitted successfully after years of travelling in space and you're talking to the version of me thousands of years in the past. Throughout my career, I have thrived in fast-paced startup environments and freelancing. This year, I'm taking a big leap into joining big companies. Hopefully I survive out there...<br/>[end of transmission]
+        If you're reading these words, consider yourself among the first to receive this message, sent across the vast expanse of space. As you decipher these lines, you're conversing with a version of me from thousands of years in the past. Throughout my journey, I've navigated the intricacies of fast-paced startup environments and ventured into the realm of freelancing. But this year marks a significant shift—a daring leap into the domain of major corporations. Here I stand, on the precipice of this new frontier, uncertain yet hopeful for what lies ahead. Hopefully I survive out there...<br/>[END OF TRANSMISSION]
       </strong>
     </blockquote>
     <br/>
