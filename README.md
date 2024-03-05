@@ -12,6 +12,7 @@ This giant cluster of about 3,000 stars, called Westerlund 2, resides in a rauco
 <div align="center">
   <a href="https://github.com/ColstonBod-oy?tab=achievements"><img alt="Colston's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=ColstonBod-oy&theme=matrix&no-frame=true"/></a>
   <br/>
+  <br/>
   <a href="https://github.com/ColstonBod-oy?tab=repositories"><img alt="Colston's GitHub Streak" src="https://streak-stats.demolab.com?user=ColstonBod-oy&theme=hacker&currStreakNum=00CB06&border=00CB06&stroke=00CB06&sideNums=00CB06&sideLabels=00CB06&dates=00CB06&excludeDaysLabel=00CB06&background=000000&ring=00CB06&fire=00CB06&currStreakLabel=00CB06"/></a>
   <br/>
 </div> 
@@ -23,7 +24,10 @@ This giant cluster of about 3,000 stars, called Westerlund 2, resides in a rauco
 </div>  
 <div align="right">
   <br/>
-  <a href="https://github.com/ColstonBod-oy"><img alt="Colston's Visitor Count" src="https://profile-counter.glitch.me/ColstonBod-oy/count.svg"/></a>
+  <p style="color: #00CB06;">
+    Profile Views: 
+    <a href="https://github.com/ColstonBod-oy"><img alt="Colston's Visitor Count" src="https://profile-counter.glitch.me/ColstonBod-oy/count.svg"/></a>
+  </p>
 </div>
 
 
