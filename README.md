@@ -4,7 +4,7 @@
   </h3>
   <small>― Klaus Joehle</small>
 </div>  
-![Westerlund 2](https://science.nasa.gov/wp-content/uploads/2023/07/42916480792-cd4b5fcfdf-o.jpg)
+![<img src="cover/Westerlund 2.png">](https://science.nasa.gov/image-detail/42916480792-cd4b5fcfdf-o/)
 
 ### Hi there 👋  
 ![Visitor Count](https://profile-counter.glitch.me/ColstonBod-oy/count.svg)
