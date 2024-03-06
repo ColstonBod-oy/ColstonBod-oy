@@ -7,8 +7,8 @@
 </div> 
 <div> 
   <br/>
-  <a href="https://github.com/ColstonBod-oy?tab=repositories"><img alt="Colston's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ColstonBod-oy&show_icons=true&title_color=00CB06&text_color=00CB06&icon_color=00CB06&border_color=00CB06&bg_color=000000" height="200px" width="49.5%"/></a>
-  <a href="https://github.com/ColstonBod-oy?tab=stars"><img alt="Colston's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColstonBod-oy&layout=compact&langs_count=8&card_width=400&title_color=00CB06&text_color=00CB06&icon_color=00CB06&border_color=00CB06&bg_color=000000" height="200px" width="49.5%"/></a>
+  <a href="https://github.com/ColstonBod-oy?tab=repositories"><img alt="Colston's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ColstonBod-oy&show_icons=true&title_color=00CB06&text_color=00CB06&icon_color=00CB06&border_color=00CB06&bg_color=000000" height="200px" width="49%"/></a>
+  <a href="https://github.com/ColstonBod-oy?tab=stars"><img alt="Colston's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColstonBod-oy&layout=compact&langs_count=8&card_width=400&title_color=00CB06&text_color=00CB06&icon_color=00CB06&border_color=00CB06&bg_color=000000" height="200px" width="49%"/></a>
   <br/>
 </div> 
 <div align="center">
