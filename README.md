@@ -17,7 +17,7 @@
   <a href="https://github.com/ColstonBod-oy?tab=stars">
     <picture height="200px" width="49%">
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ColstonBod-oy&layout=compact&langs_count=8&card_width=400&title_color=00CB06&text_color=00CB06&icon_color=00CB06&border_color=00CB06&bg_color=000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ColstonBod-oy&layout=compact&langs_count=8&card_width=400&theme=shadow_green">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ColstonBod-oy&layout=compact&langs_count=8&theme=shadow_green">
       <img alt="Colston's Top Languages" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
     </picture>
   </a>
