@@ -16,7 +16,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ColstonBod-oy&theme=matrix&no-frame=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ColstonBod-oy&theme=flat&no-frame=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ColstonBod-oy&theme=flat">
       <img alt="Colston's Github Trophies" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
     </picture>
   </a>
