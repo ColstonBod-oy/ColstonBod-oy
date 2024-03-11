@@ -2,7 +2,13 @@
   <a href="https://github.com/ColstonBod-oy?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB06&background=000000&vCenter=true&random=false&width=435&lines=%24+Full+Stack+Web+Development;%24+Android+Mobile+Development;%24+Data+Structures+and+Algorithms;%24+Machine+Learning;%24+Responsive+Web+Design;%24+Test+Driven+Development;%24+CI%2FCD;%24+Java;%24+Kotlin;%24+Javascript;%24+Typescript;%24+React;%24+React+Native;%24+Expo;%24+Next.js;%24+CSS;%24+SASS;%24+Tailwind+CSS;%24+Bootstrap;%24+SQL;%24+PHP;%24+Laravel;%24+Firebase;%24+Python;%24+Pandas;%24+NumPy;%24+Matplotlib;%24+TensorFlow;%24+Keras;%24+Scikit-Learn;%24+Flutter;%24+Chess+lol" alt="Typing SVG" /></a>
   <br/>
   <br/>
-  <a href="https://github.com/ColstonBod-oy?tab=repositories"><img alt="Colston's GitHub Streak" src="https://streak-stats.demolab.com?user=ColstonBod-oy&theme=hacker&currStreakNum=00CB06&border=00CB06&stroke=00CB06&sideNums=00CB06&sideLabels=00CB06&dates=00CB06&excludeDaysLabel=00CB06&background=000000&ring=00CB06&fire=00CB06&currStreakLabel=00CB06"/></a>
+  <a href="https://github.com/ColstonBod-oy?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ColstonBod-oy&theme=hacker&currStreakNum=00CB06&border=00CB06&stroke=00CB06&sideNums=00CB06&sideLabels=00CB06&dates=00CB06&excludeDaysLabel=00CB06&background=000000&ring=00CB06&fire=00CB06&currStreakLabel=00CB06">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ColstonBod-oy&theme=shadow_green">
+      <img alt="Colston's GitHub Streak" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+    </picture>
+  </a>
   <br/>
 </div> 
 <div> 
