@@ -5,7 +5,7 @@
   <a href="https://github.com/ColstonBod-oy?tab=repositories"><img alt="Colston's GitHub Streak" src="https://streak-stats.demolab.com?user=ColstonBod-oy&theme=hacker&currStreakNum=00CB06&border=00CB06&stroke=00CB06&sideNums=00CB06&sideLabels=00CB06&dates=00CB06&excludeDaysLabel=00CB06&background=000000&ring=00CB06&fire=00CB06&currStreakLabel=00CB06"/></a>
   <br/>
 </div> 
-<div> 
+<div align="center"> 
   <br/>
   <a href="https://github.com/ColstonBod-oy?tab=repositories">
     <picture height="200px" width="49%">
