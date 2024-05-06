@@ -48,7 +48,7 @@
 <br/>
 <div align="center">
   <details> 
-    <summary><h2>📟</h2></summary>
+    <summary><br/><h2>📟</h2></summary>
     <br/>
     💬
     <br/>
