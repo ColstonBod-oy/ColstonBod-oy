@@ -18,7 +18,7 @@
   <br/>
 </div> 
 <div> 
-  <br/>
+  <p align="center">
   <a href="https://github.com/ColstonBod-oy?tab=repositories">
     <picture>
       <source height=200 align="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ColstonBod-oy&show_icons=true&title_color=00CB06&text_color=00CB06&icon_color=00CB06&border_color=00CB06&bg_color=000000" height="200px" width="49%">
@@ -33,6 +33,7 @@
       <img height=200 align="center" alt="Colston's Top Languages" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
     </picture>
   </a>
+  </p>
   <br/>
 </div> 
 <div align="center">
