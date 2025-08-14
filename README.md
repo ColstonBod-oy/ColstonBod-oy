@@ -80,7 +80,7 @@
   </details>
 </div>
 <div align="right">
-  <a href="https://github.com/ColstonBod-oy"><img alt="Colston's Visitor Count" src="https://profile-counter.glitch.me/ColstonBod-oy/count.svg"/></a>
+  <a href="https://github.com/ColstonBod-oy"><img src="https://profile-counter.deno.dev/ColstonBod-oy/count.svg" alt="Colston's Visitor Count" /></a>
   <br/>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bodoycolstond@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/🔳-GMAIL-000000?style=flat-square&labelColor=00CB06"/></a>
   <a href="https://www.linkedin.com/in/colston-bod-oy-60a7521a4/"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/🔳-LINKEDIN-000000?style=flat-square&labelColor=00CB06"/></a>
